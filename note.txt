@@ -1,1 +1,4 @@
-
+app => App folder containe all the code and file that we will write to your aplication. It works alongside the pages directory to allow for incremental adoption.
+public => public directory used for static asset files like images,audio,video etc.
+.gitignore => It normaly used for a file that will be deploy the github or not.
+next.config.js => It is very inportant for next.js application. Next.js automatically traces which files are needed by each page to allow for easy deployment of your application. 
